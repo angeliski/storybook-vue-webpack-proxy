@@ -11,7 +11,7 @@
     "storybook:serve": "vue-cli-service storybook:serve -p 6006 -c config/storybook"
   },
   "dependencies": {
-    "vue": "^2.5.21"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^4.1.0",
